@@ -1,0 +1,647 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    
+
+<meta charset="utf-8" />
+
+	
+
+	<title>2023届3班</title>
+	
+	
+
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="renderer" content="webkit">
+<meta content="万能页" name="keywords" />
+<meta content="点击输入副标题" name="description" />
+<link rel="shortcut icon" type="image/ico" href="/statics/images/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="/statics/js/lib/nprogress/nprogress.css" rel="stylesheet" />
+<link rel="stylesheet" href="/statics/css/common.css?v=1.24.7" />
+<script>
+	var IMG_CDN_URL = "http://img.wannengye.com/";
+	var WEIXIN_IMG_CDN_URL = "http://wechat-share.wannengye.com/";
+	var VIEW_PATH = "/pages/";
+	
+	var IS_VIP = false;
+	
+</script>
+
+<link rel="stylesheet" href="/statics/css/slick.min.css">
+    <link rel="stylesheet" href="/statics/css/view.css?v=1.24.2"/>
+    <link rel="stylesheet" href="/statics/css/theme/view/invitation.css?v=1.24.2"/>
+    <link rel="stylesheet" href="/statics/js/lib/PhotoSwipe-4.1.1/photoswipe.css"/>
+    <link rel="stylesheet" href="/statics/js/lib/PhotoSwipe-4.1.1/default-skin/default-skin.css"/>
+    <link rel="stylesheet" href="/statics/js/lib/colorbox-1.6.4/colorbox.css"/>
+    <link rel="stylesheet" href="/statics/js/lib/datetimepicker/jquery.datetimepicker.css" type="text/css"></link>
+    <style>
+        div.view_header {
+            background-color: #b80000;
+        
+        }
+
+        @media only screen and (min-width: 100px) and (max-width: 700px) {
+            div.view_header {
+             background-image: url(http://img.wannengye.com/FuaReFDMVYC6ohYM-f7kg14_ZgOn);
+             background-size: cover;
+            }
+        }
+
+        div.view_header .title {
+            color: #ffffff;
+        }
+
+        div.view_header .text {
+            color: #ffffff;
+        }
+
+        div.view_action i.iconfont,
+        div.view_botton .title a,
+        div.view_customform .title a,
+        div.view_APP .btn a,
+        div.view_form .form_cont .btn,
+        div.view_table .switch_1 th {
+            background-color: #b80000;
+            color: #ffffff;
+        }
+
+        .view_action li.last span {
+            color: #fff;
+        }
+
+        .view_action li.last span i {
+            background: none;
+            color: #fff;
+        }
+
+        .switch_4 .view_action li span, .switch_2 .view_action li.last span, .switch_4 .view_action li.last span {
+            color: #b80000;
+        }
+
+        .view_action li.last span i {
+            color: #fff;
+            background: none !important;
+        }
+
+        .switch_4 .view_action li span i, .switch_2 .view_action li.last span i, .switch_4 .view_action li.last span i {
+            background: none;
+            color: #b80000
+        }
+    </style>
+    <script type="text/javascript">
+        function i() {
+            var e = 1,
+                i = document.documentElement.clientWidth || 320,
+                n = document.documentElement.clientHeight || 486;
+            e = i / n >= 320 / 486 ? n / 486 : i / 320;
+            var o = "width=320, initial-scale=" + e + ", maximum-scale=" + e + ", user-scalable=no";
+            document.getElementById("viewport").setAttribute("content", o)
+        }
+
+        i();
+    </script>
+    </head>
+<body class="view " data-theme-id="3">
+
+<div class="bodybg"
+             style="background-image:url(http://img.wannengye.com/FuaReFDMVYC6ohYM-f7kg14_ZgOn);background-size:cover;"></div>
+    
+
+<div class="header">
+	<div class="cont">
+		<a href="/index" class="logo"></a>
+		<div class="right">
+			
+            
+            	<a href="/manage/flyer/page_list">我的页面</a>
+	            
+	            <a href="/manage/flyer/case_list">案例展示</a>
+	            <a href="/pages/yZXbrSDO" target="_blank">帮助教程</a>
+				<a href="javascript:;" class="user">
+					<div class="face_cont">
+	            		
+		            	<img src="http://img.wannengye.com/ljfjL8fXrfluaix0k942jnOxNCkN" class="face"/>
+		            	
+		            	
+	                </div>
+	            	shihaoran7895123@163.com
+	            	<i class="iconfont js_i">&#xe614;</i>
+	            </a>
+	            <div class="usernav">
+	                <a href="/manage/user/profile">个人中心</a>
+	                <a href="/signout" class="last">退出</a>
+	            </div>
+			
+		</div>
+	</div>
+</div>
+<div class="view_body">
+    <div class="cont_style_1"></div>
+    <div class="cont_style_2"></div>
+    <div class="view_header ">
+        <!-- mobile适配 开始 -->
+        <div class="goregist">
+                <a href="/"你好</a>
+            </div>
+        <!-- mobile适配 结束 -->
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	<div class="view_cont switch_1" style="padding-bottom:10.0px;">
+	
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+            <div class="view_content">
+                <div class="wenben">
+                    <div class="title textFilter" data-placeholder="点击输入标题">2023届3班</div>
+                    <div class="text textFilter" data-placeholder="点击输入副标题">点击输入副标题</div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+</div>
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 按钮 开始 -->
+    <div class="view_botton">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_1" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="wenben">
+                <div class="title">
+                    <a href="http://dysyxx.cn" class="_rha_event"
+                       data-event-name="学校网页">学校网页</a>
+                </div>
+                <div class="text textFilter" data-placeholder="点击输入内容">点击输入内容</div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 按钮 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 单图 开始 -->
+    <div class="view_onepoto">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_1" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="li first">
+                <div class="wenben first">
+                    <div class="title textFilter" data-placeholder="点击输入标题">点击输入标题</div>
+    </div>
+                <div class="img">
+                        <div class="img_style_1"></div>
+                        <div class="img_style_2"></div>
+                        <a data-href="http://img.wannengye.com/FsEUOnFX102eTh1jdPOXqp_fHO5l"
+                           class="show_image img_a_trigger">
+                            <img class="lazy"
+                                         data-original="http://img.wannengye.com/FsEUOnFX102eTh1jdPOXqp_fHO5l?imageMogr2/auto-orient/interlace/1/quality/100/thumbnail/700x"/>
+                                </a>
+                        </div>
+                <div class="potostyle"></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 单图 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 单图 开始 -->
+    <div class="view_onepoto">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_1" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="li first">
+                <div class="wenben first">
+                    <div class="title textFilter" data-placeholder="点击输入标题">点击输入标题</div>
+    </div>
+                <div class="img">
+                        <div class="img_style_1"></div>
+                        <div class="img_style_2"></div>
+                        <a data-href="http://img.wannengye.com/Ful5271INijFj2-ikF0QrL9UOcso"
+                           class="show_image img_a_trigger">
+                            <img class="lazy"
+                                         data-original="http://img.wannengye.com/Ful5271INijFj2-ikF0QrL9UOcso?imageMogr2/auto-orient/interlace/1/quality/100/thumbnail/700x"/>
+                                </a>
+                        </div>
+                <div class="potostyle"></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 单图 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 单图 开始 -->
+    <div class="view_onepoto">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_1" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="li first">
+                <div class="wenben first">
+                    <div class="title textFilter" data-placeholder="点击输入标题">点击输入标题</div>
+    </div>
+                <div class="img">
+                        <div class="img_style_1"></div>
+                        <div class="img_style_2"></div>
+                        <a data-href="http://img.wannengye.com/Fs0Z3PqH_Mwr8bd33c3RsqAgGanj"
+                           class="show_image img_a_trigger">
+                            <img class="lazy"
+                                         data-original="http://img.wannengye.com/Fs0Z3PqH_Mwr8bd33c3RsqAgGanj?imageMogr2/auto-orient/interlace/1/quality/100/thumbnail/700x"/>
+                                </a>
+                        </div>
+                <div class="potostyle"></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 单图 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 单图 开始 -->
+    <div class="view_onepoto">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_1" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="li first">
+                <div class="wenben first">
+                    <div class="title textFilter" data-placeholder="点击输入标题">点击输入标题</div>
+    </div>
+                <div class="img">
+                        <div class="img_style_1"></div>
+                        <div class="img_style_2"></div>
+                        <a data-href="http://img.wannengye.com/Fjm8pu7THVGWqMGc_69t9ndkPxth"
+                           class="show_image img_a_trigger">
+                            <img class="lazy"
+                                         data-original="http://img.wannengye.com/Fjm8pu7THVGWqMGc_69t9ndkPxth?imageMogr2/auto-orient/interlace/1/quality/100/thumbnail/700x"/>
+                                </a>
+                        </div>
+                <div class="potostyle"></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 单图 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 表单 开始 -->
+    <div class="view_form">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_1" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="text">毕业留言</div>
+            <form method="POST" id="form_18003642" action="/p/541591/f/18003642/u/194324">
+                <div class="form_cont">
+                    
+
+<input type="text" name="uname" data-length="50" placeholder="请输入姓名"/>
+<input type="hidden" name="email" data-valid="email" data-length="255" placeholder="请输入邮箱"/>
+<input type="text" name="phone" data-length="20" placeholder="请输入电话号码"/>
+<input type="hidden" name="address" data-length="200" placeholder="请输入地址"/>
+<input type="text" name="qq" data-valid="qq" placeholder="请输入QQ"/>
+<input type="text" name="weixin" data-length="50" placeholder="请输入微信"/>
+<input type="hidden" name="weibo" data-length="50" placeholder="请输入微博"/>
+<input type="text" class="form_timeTrigger" name="birthday" data-valid="date" placeholder="请输入生日" readonly/>
+
+<div class="sex">
+    请选择性别：
+    <div class="radio down"><div></div></div> 男
+    <div class="radio"><div></div></div> 女
+</div>
+
+<input type="hidden" name="sex" value="男"/>
+<textarea class="" name="remark" placeholder="其它备注信息"></textarea>
+
+
+
+
+
+
+
+
+
+<div class="btn btn_form_submit _rha_event" style="cursor: pointer;"
+                         data-event-name="提 交">提 交</div>
+                </div>
+            </form>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 表单 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 文本 开始 -->
+    <div class="view_text">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_4" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="wenben">
+                <div class="title textFilter" data-placeholder="点击输入标题">点击输入标题</div>
+    <div class="text textFilter" data-placeholder="点击输入内容">作者QQ：703063252<div>作者微信：zhushi1230333</div><div>作者钉钉：shihaoran7895123</div><div>&nbsp;Github：https://github.com/1230333Paul/1230333Paul</div><div>&nbsp;邮箱：Shihaoran7895123@163.com</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shihaoran7895123@126.com</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shihaoran7895123@outlook.com</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 文本 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 文本 开始 -->
+    <div class="view_text">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_4" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="wenben">
+                <div class="title textFilter" data-placeholder="点击输入标题">更新内容</div>
+    <div class="text textFilter" data-placeholder="点击输入内容">网页 大更新（0.013）<div>更新内容：</div><div>增加服务器容纳人数，最多可600人同时打开。</div><div>增加了安全系统，防止DDOS攻击和抓包。</div><div>修复网站报错404无法进入的问题。</div></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 文本 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+<!-- 文本 开始 -->
+    <div class="view_text">
+        <!-- view_cont start tag -->
+        
+
+
+
+	
+	
+	<div class="view_cont switch_4" style="padding-top:10.0px;padding-bottom:10.0px;">
+	
+
+
+<!-- 样式 开始--><div class="topstyle"></div><div class="leftstyle"></div><div class="rightstyle"></div><div class="bottomstyle"></div><!-- 样式 结束--><!-- 内容 开始 -->
+        <div class="view_content">
+            <div class="wenben">
+                <div class="title textFilter" data-placeholder="点击输入标题">点击输入标题</div>
+    <div class="text textFilter" data-placeholder="点击输入内容">版权所有 石昊燃© Copyright 2015 - 2023. All Rights Reserved<div>技术支持</div><div>阿里云</div><div>Github.com</div><div><br></div><div><br></div></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <!-- 内容 结束 -->
+    </div>
+    </div>
+    <!-- 文本 结束 -->
+<!-- 间距 开始 -->
+<div class="view_spacing" style="height:20px;"></div>
+<!-- 间距 结束 -->
+</div>
+<!-- 相关页面 非截屏模式下显示 开始-->
+    
+
+
+
+<!-- 相关页面 结束-->
+<!-- 回到顶部 -->
+<div class="shortcut">
+    <div class="backtop statistic bottomin" data-statistic="all_backtop">
+        <a href="#"></a>
+    </div>
+</div>
+<!-- 版权信息 -->
+<div class="view_copyright">
+    技术提供：<a href="http://www.wannengye.com" target="_blank">万能页</a> |
+    <a href="http://www.beian.miit.gov.cn/" target="_blank"> 沪ICP备14033461号－1 </a> |
+    <a class="last" href="http://new.wannengye.com/feedback?url=PfZ6fClm" id="btn_report">举报该页面</a>
+</div>
+
+
+
+
+
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/statics/js/lib/nprogress/nprogress.js"></script>
+<script src="/statics/js/lib/noty-2.3.8/jquery.noty.packaged.min.js"></script>
+<script src="/statics/js/common.js?v=1.24.2"></script>
+<script src="/statics/js/site.js?v=1.24.2"></script>
+
+
+<script src="/statics/js/lib/moment.min.js"></script>
+<script src="/statics/js/lib/jquery.lazyload.min.js"></script>
+<script src="/statics/js/lib/slick.min.js"></script>
+<script src="/statics/js/lib/PhotoSwipe-4.1.1/photoswipe.min.js"></script>
+<script src="/statics/js/lib/PhotoSwipe-4.1.1/photoswipe-ui-default.min.js"></script>
+<script src="/statics/js/lib/colorbox-1.6.4/colorbox.min.js"></script>
+<script type="text/javascript" src="/statics/js/lib/datetimepicker/jquery.datetimepicker.js"></script>
+<script src="/statics/js/lib/hls.min.js"></script>
+<script src="/statics/js/flyer/page_view.js?v=1.24.2"></script>
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div id="photoswipeDialog" class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Background of PhotoSwipe.
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+        <!-- Container that holds slides.
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 统计 -->
+    <script src="http://track.wannengye.com/statics/js/track.min.js?v=10.0" async onload="rh_track_init()"></script>
+    <script>
+        function rh_track_init() {
+            rh_track.init({
+                authId: 194324,
+                pageId: 541591,
+                getGeo: true
+            });
+        }
+
+        
+        $(function () {
+            $.getJSON("http://track.wannengye.com/api/getViewCount", {pid:541591}).done(function (data) {
+                $("div.view_share").find(".share_count_weibo").text(data.weibo)
+                    .end().find(".share_count_weixin").text(data.weixin)
+                    .end().find(".share_count_pv").text(data.pv);
+                //mobile
+                $("#view_action").find(".share_count_pv").text(data.pv);
+            });
+        });
+        </script>
+    <!-- 百度 -->
+    <script>
+        (function () {
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            } else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+
+
+        })();
+    </script>
+</body>
+</html>
